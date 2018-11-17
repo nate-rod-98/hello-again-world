@@ -1,2 +1,3 @@
 # hello-again-world
 Going back to review github...
+After reviewing python and studying statistics, I am on the way to officially writing software.
